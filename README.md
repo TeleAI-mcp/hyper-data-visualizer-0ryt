@@ -1,2 +1,3 @@
-# hyper-data-visualizer-0ryt
+# Hyper Data Visualizer 0Ryt
+
 A repository to test GitHub automation for issue management.
